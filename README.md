@@ -1,1 +1,1 @@
-This project, Contain Python code to import US bike share data and answer interesting questions about it by computing descriptive statistics. And majical script that takes in raw input to create an interactive experience in the terminal to present these statistics.
+# The Project aims to bring together several concepts taught to us over the duration of the course, which we can apply to the data set which will allow us to analyse several attributes and answer several questions that we ask of the data ourselves.
